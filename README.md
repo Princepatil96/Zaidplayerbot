@@ -3,7 +3,7 @@
 
      Bot is Private 😜 
 
-![LOGO](https://telegra.ph/file/f586f8090d6e9aa4e0b00.jpg)
+![LOGO](https://telegra.ph/file/9c71bd26b7772df92684a.jpg)
 
 
 ### Requirements ([wiki](../../wiki/Requirements))
@@ -14,7 +14,7 @@
 
 ### Support
  
-- Zaid : [Support](https://t.me/zaid_team)
+- Zaid : [Support](https://t.me/STUDY_FLOWER)
 
 ### Memes
 
